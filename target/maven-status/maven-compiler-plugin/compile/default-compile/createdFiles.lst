@@ -1,0 +1,12 @@
+br\edu\aula\contatosapi\repository\ContatoRepository.class
+br\edu\aula\contatosapi\model\Contato$Builder.class
+br\edu\aula\contatosapi\exception\EmailJaCadastradoException.class
+br\edu\aula\contatosapi\exception\GlobalExceptionHandler.class
+br\edu\aula\contatosapi\ContatosApiApplication.class
+br\edu\aula\contatosapi\dto\ContatoDTO.class
+br\edu\aula\contatosapi\config\SwaggerConfig.class
+br\edu\aula\contatosapi\dto\ContatoDTO$Builder.class
+br\edu\aula\contatosapi\model\Contato.class
+br\edu\aula\contatosapi\service\ContatoService.class
+br\edu\aula\contatosapi\exception\ContatoNaoEncontradoException.class
+br\edu\aula\contatosapi\controller\ContatoController.class
